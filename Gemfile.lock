@@ -67,7 +67,7 @@ GEM
       activerecord (= 3.2.3)
       activeresource (= 3.2.3)
       activesupport (= 3.2.3)
-      bundler (~> 1.0)
+      bundler (~> 1.1)
       railties (= 3.2.3)
     railties (3.2.3)
       actionpack (= 3.2.3)
